@@ -1,5 +1,5 @@
 order_id,customer_id,restaurant_id,partner_id,order_datetime,city,promised_minutes,delivered_minutes,order_value,payment_method,status,rating
-O000001,C0001,R014,P017,2025-01-07 10:13:00,Mumbai,33,12,272,Cash on Delivery,Delivered,5
+O000001,C0001,R014,P017,2025-01-07 10:13:00,Mumbai,33,12,272,Cash on Delivery,Delivered,2
 O000002,C0004,R024,P005,2025-01-29 21:14:00,Mumbai,28,28,214,Cash on Delivery,Delivered,5
 O000003,C0004,R055,P056,2025-01-14 22:02:00,Mumbai,33,40,91,UPI,Delivered,4
 O000004,C0004,R059,P005,2025-01-04 09:21:00,Mumbai,35,,222,Wallet,Cancelled,
